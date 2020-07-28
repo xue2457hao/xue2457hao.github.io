@@ -1,8 +1,4 @@
 ~$ git clone htpps://github.com/xue2457hao/xue2457hao.github.io
 ~$ cd xue2457hao.github.io
-<html>
-  <body>
-    <h1>This is a POC header</h1>
-  </body>
-This is a test file
-</html>
+~$ echo "HELLO WORLD">index.html
+
